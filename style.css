@@ -340,7 +340,7 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 1.5rem;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 article {
