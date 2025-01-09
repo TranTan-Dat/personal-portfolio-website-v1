@@ -37,7 +37,8 @@
     section {
       margin: 0 5%;
     }
-    .section__pic-container {
+    .section-pic-container,
+    .section-text-container {
       width: 275px;
       height: 275px;
       margin: 0 auto 2rem;
@@ -86,12 +87,13 @@
       gap: 0.5rem;
       text-align: center;
     }
-    .section__pic-container {
+    .section-pic-container,
+    .section__text {
       width: auto;
       height: 46vw;
       justify-content: center;
     }
-    .section__text__p2 {
+    .section-text-2 {
       font-size: 1.25rem;
     }
     .title {
